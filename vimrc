@@ -19,8 +19,8 @@ Plugin 'valloric/youcompleteme'
 Plugin 'bling/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'jiangmiao/auto-pairs'
-Plugin 'townk/vim-autoclose'
 Plugin 'scrooloose/nerdcommenter'
+Plugin 'Raimondi/delimitMate'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
