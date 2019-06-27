@@ -67,6 +67,7 @@ set hlsearch
 set nobackup
 set noswapfile
 
+set encoding=utf-8
 " change the mapleader from \ to ,
 let mapleader=","
 
