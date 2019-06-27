@@ -69,3 +69,5 @@ set noswapfile
 
 " change the mapleader from \ to ,
 let mapleader=","
+
+nnoremap <leader>g    :YcmCompleter GoToDefinition<CR>
