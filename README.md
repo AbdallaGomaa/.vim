@@ -13,7 +13,7 @@
 3. Install `YouCompleteMe`
     ```
     sudo apt install build-essential cmake python3-dev
-    cd ~/.vim/bundle/YouCompleteMe
+    cd ~/.vim/bundle/youcompleteme
     python3 install.py
     ```
 
