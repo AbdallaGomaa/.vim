@@ -11,9 +11,17 @@
    To install from command line: `vim +PluginInstall +qall`
    
 3. Install `YouCompleteMe`
+   Linux:   
     ```
     sudo apt install build-essential cmake python3-dev
     cd ~/.vim/bundle/youcompleteme
     python3 install.py
     ```
+   Max:
+   ```
+   brew install cmake
+   brew install mono go nodejs
+   cd ~/.vim/bundle/youcompleteme
+   python3 install.py
+   ```
 
