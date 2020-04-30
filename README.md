@@ -17,7 +17,7 @@
     cd ~/.vim/bundle/youcompleteme
     python3 install.py
     ```
-   Max:
+   Mac:
    ```
    brew install cmake
    brew install mono go nodejs
