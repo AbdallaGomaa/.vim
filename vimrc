@@ -13,7 +13,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'morhetz/gruvbox'
-Plugin 'valloric/youcompleteme'
+" Plugin 'valloric/youcompleteme'
 " Plugin 'scrooloose/nerdtree'
 " Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'bling/vim-airline'
